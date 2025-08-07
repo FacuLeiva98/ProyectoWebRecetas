@@ -2,3 +2,53 @@
 .linea-footer {
   border-top: 1.5px solid white;
 }
+
+/*imagen panplato*/
+.pan {
+width: 100%;
+height: auto;
+}
+.alfajores {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.budin {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+
+.muffin {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.tortas {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.postres {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.te {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.galletas {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.otros {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+
+
+
