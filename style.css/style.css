@@ -2,3 +2,88 @@
 .linea-footer {
   border-top: 1.5px solid white;
 }
+
+/*imagen panplato*/
+.pan {
+width: 100%;
+height: auto;
+}
+.alfajores {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.budin {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+
+.muffin {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.tortas {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.postres {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.te {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.galletas {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.otros {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+
+/* segunda grilla de fotos*/
+
+.alfajoress {
+  width: 250px;
+  height: 250px;
+}
+.budinn {
+  width: 250px;
+  height: 250px;
+}
+
+.muffinn {
+  width: 250px;
+  height: 250px;
+}
+.tortass {
+  width: 250px;
+  height: 250px;
+}
+.postress {
+  width: 250px;
+  height: 250px;
+}
+.tee {
+  width: 250px;
+  height: 250px;
+}
+.galletass {
+  width: 250px;
+  height: 250px;
+}
+.otross {
+  width: 250px;
+  height: 250px;
+}
+
+
